@@ -8,7 +8,7 @@ const config: IConfig = {
   },
   db: {
     host: 'localhost',
-    name: 'gogot',
+    name: 'cappi',
     port: 27017,
   },
   defaultLanguage: Languages.en,
